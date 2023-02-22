@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "MKT",
+    "paragraph": "Engineer, Barber, Creator"
+  },
+  "About": {
+    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. I am a self-taught software developer and professional barber. Expressing creativity and individuality through my work is my passion. In 2021, I founded my own barbershop in San Jose, CA. While I was building the website for the shops and running scripts to analyze our data, I discovered my affinity for software development. ",
+    "paragraph2": "Although the shop was thriving, I found myself on many nights pondering and exploring computer science. After almost two years, I decided that I wanted to pursue a development career, and some day start my own tech company. In the fall of 2022, I realized my shops full potential through a successful sale, cut down to part time as a barber, and began my journey as a full time software engineer.",
+    "paragraph3": "Life after graduation has been one wonderful and exciting roller coaster. I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
+    "paragraph4": "Love always, Max"
+  },
+
+  "Gallery": [
+    {
+      "title": "Lights. Camera. Action.",
+      "smallImage": "img/portfolio/action.jpg"
+    },
+    {
+      "title": "Freestyle",
+      "smallImage": "img/portfolio/design.jpeg"
+    },
+    {
+      "title": "Waves",
+      "smallImage": "img/portfolio/wave.jpeg"
+    },
+    {
+      "title": "Curls",
+      "smallImage": "img/portfolio/curl.jpeg"
+    },
+    {
+      "title": "Hair Architecture",
+      "smallImage": "img/portfolio/book.jpeg"
+    },
+    {
+      "title": "Classic",
+      "smallImage": "img/portfolio/part.jpeg"
+    },
+    {
+      "title": "Man Bun",
+      "smallImage": "img/portfolio/bun.jpeg"
+    },
+    {
+      "title": "Braid and Fade",
+      "smallImage": "img/portfolio/braid.jpeg"
+    },
+    {
+      "title": "Beard Work",
+      "smallImage": "img/portfolio/beard.jpeg"
+    }
+  ],
+  "Timeline": [
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "2017",
+      "text": "Graduated with a B.B.A. in Finance and Investment Analytics, Magna Cum Laude."
+    },
+    {
+      "icon": "fa fa-scissors",
+      "name": "2018",
+      "text": "Began my career as a barber. Made many lifelong friends and connections along the way."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "2019",
+      "text": "Accepted a second job as a CA Peace Officer for the Santa Clara County Probation Department."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "2020",
+      "text": "Learned a few software development tools to improve my business. Curiousity and side projects eventually grew into passion."
+    },
+    {
+      "icon": "fa fa-bolt",
+      "name": "2021",
+      "text": "Took a chance, resigned from officer duties, and opened up my own barbershop! It was the learning experience of a lifetime. Made even more friends and memories."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "2022 and Beyond",
+      "text": "Sold my shop to pursue tech full time. I still cut part time during the week so feel free to book an appointment!"
+    }
+  ],
+  
+  "Contact": {
+    "address": "28 N Almaden Ave, San Jose, CA 95110 ",
+    "phone": "(209)770-2007",
+    "email": "tranmaximillian@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/maximillian-kwun-tran-850946116/",
+    "github": "https://www.github.com/max-the-creator",
+    "instagram": "https://www.instagram.com/theundefaded/"
+  }
+
+  
+}
