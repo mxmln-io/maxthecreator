@@ -3,7 +3,7 @@
 
 This is a website for my small barber business built using React. The website is designed to provide information about both my business and personal ventures. The website also allows users to schedule appointments with the barber shop.
 
-Installation
+## Installation
 
 To run this website, you will need to have Node.js and npm (Node Package Manager) installed on your computer. You can download Node.js from the official website here.
 
