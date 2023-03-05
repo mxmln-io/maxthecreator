@@ -9,7 +9,7 @@ To run this website, you will need to have Node.js and npm (Node Package Manager
 
 After installing Node.js, navigate to the project directory in a command prompt or terminal window and install the required dependencies by running the following command:
 
-npm install
+`npm install`
 
 This command will install all the necessary packages required by the application, as listed in the package.json file.
 
@@ -17,7 +17,7 @@ This command will install all the necessary packages required by the application
 To start the website, navigate to the project directory in a command prompt or terminal window and run the following command:
 
 
-npm start
+`npm start`
 
 This command will start the development server and launch the website in your default web browser. You can view the website at http://localhost:3000.
 
