@@ -21,4 +21,3 @@ To start the website, navigate to the project directory in a command prompt or t
 
 This command will start the development server and launch the website in your default web browser. You can view the website at http://localhost:3000.
 
-# Got-Solar
