@@ -1,90 +1,90 @@
 {
   "Header": {
-    "title": "MKT",
-    "paragraph": "Engineer, Barber, Creator"
+    "title": "Go Solar",
+    "paragraph": "Renewable and Efficient Energy"
   },
   "About": {
-    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. I am a self-taught software developer and professional barber. Expressing creativity and individuality through my work is my passion. In 2021, I founded my own barbershop in San Jose, CA. While I was building the website for the shops and running scripts to analyze our data, I discovered my affinity for software development. ",
-    "paragraph2": "Although the shop was thriving, I found myself on many nights pondering and exploring computer science. After almost two years, I decided that I wanted to pursue a development career, and some day start my own tech company. In the fall of 2022, I realized my shops full potential through a successful sale, cut down to part time as a barber, and began my journey as a full time software engineer.",
-    "paragraph3": "Life after graduation has been one wonderful and exciting roller coaster. I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
-    "paragraph4": "Love always, Max"
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi. Curabitur ultricies odio et urna efficitur, ut aliquam justo. Donec at tincidunt elit, in hendrerit purus. In 2022, Fusce varius facilisis purus at bibendum. Nullam pulvinar nisl quam. Quisque eget vestibulum justo, vitae commodo dui. Vivamus a euismod urna. ",
+    "paragraph2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus lectus nulla, quis tincidunt metus facilisis a. Integer in tortor volutpat, fringilla elit id, suscipit urna. Etiam vitae erat lacus. Curabitur eleifend, enim eu imperdiet vehicula, est metus varius libero, ut feugiat quam justo eu ipsum. In hac habitasse platea dictumst. Ut nunc enim, pellentesque ut bibendum eu, facilisis non ante.",
+    "paragraph3": "Lorem ipsum dolor sit amet, consectetur elit. Ut blandit, leo in accumsan vehicula, arcu nulla sodales quam, a dignissim velit justo eu nulla. Sed quis enim libero. Nullam aliquet, odio et consequat dapibus, nulla justo aliquam dui, id bibendum ipsum velit non libero. Si visum hoc, non cunctanter ad connexum extendere.",
+    "paragraph4": "Lorem ipsum dolor sit amet"
   },
 
   "Gallery": [
     {
-      "title": "Lights. Camera. Action.",
-      "smallImage": "img/portfolio/action.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Freestyle",
-      "smallImage": "img/portfolio/design.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Waves",
-      "smallImage": "img/portfolio/wave.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Curls",
-      "smallImage": "img/portfolio/curl.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Hair Architecture",
-      "smallImage": "img/portfolio/book.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Classic",
-      "smallImage": "img/portfolio/part.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Man Bun",
-      "smallImage": "img/portfolio/bun.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Braid and Fade",
-      "smallImage": "img/portfolio/braid.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     },
     {
-      "title": "Beard Work",
-      "smallImage": "img/portfolio/beard.jpeg"
+      "title": "Lorem ipsum dolor",
+      "smallImage": "img/solarsun.jpg"
     }
   ],
   "Timeline": [
     {
       "icon": "fa fa-graduation-cap",
-      "name": "2017",
-      "text": "Graduated with a B.B.A. in Finance and Investment Analytics, Magna Cum Laude."
+      "name": "What",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     },
     {
       "icon": "fa fa-scissors",
-      "name": "2018",
-      "text": "Began my career as a barber. Made many lifelong friends and connections along the way."
+      "name": "Who",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     },
     {
       "icon": "fa fa-star",
-      "name": "2019",
-      "text": "Accepted a second job as a CA Peace Officer for the Santa Clara County Probation Department."
+      "name": "Where",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     },
     {
       "icon": "fa fa-desktop",
-      "name": "2020",
-      "text": "Learned a few software development tools to improve my business. Curiousity and side projects eventually grew into passion."
+      "name": "Why",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     },
     {
       "icon": "fa fa-bolt",
-      "name": "2021",
-      "text": "Took a chance, resigned from officer duties, and opened up my own barbershop! It was the learning experience of a lifetime. Made even more friends and memories."
+      "name": "How",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     },
     {
       "icon": "fa fa-code",
-      "name": "2022 and Beyond",
-      "text": "Sold my shop to pursue tech full time. I still cut part time during the week so feel free to book an appointment!"
+      "name": "SOLAR",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel volutpat mi."
     }
   ],
   
   "Contact": {
-    "address": "28 N Almaden Ave, San Jose, CA 95110 ",
-    "phone": "(209)770-2007",
-    "email": "tranmaximillian@gmail.com",
+    "address": "SOLAR Ave, San Jose, CA 95110 ",
+    "phone": "(800)-GOSOLAR",
+    "email": "gotsolar@gmail.com",
     "linkedin": "https://www.linkedin.com/in/maximillian-kwun-tran-850946116/",
     "github": "https://www.github.com/max-the-creator",
     "instagram": "https://www.instagram.com/theundefaded/"
