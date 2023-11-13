@@ -1,26 +1,6 @@
-import React from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React from "react";
 
-export const Navigation = () => {
-  const navigate = useNavigate();
-
-  // This function handles the in-page navigation for anchor links
-  const handleNavClick = (anchor) => {
-    // If we're already on the home page, just scroll to the anchor
-    if(window.location.pathname === '/') {
-      const element = document.getElementById(anchor);
-      element?.scrollIntoView({ behavior: 'smooth' });
-    } else {
-      // If we're on a different page, navigate home and then scroll
-      navigate('/').then(() => {
-        const element = document.getElementById(anchor);
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth' });
-        }
-      });
-    }
-  };
-
+export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -31,47 +11,41 @@ export const Navigation = () => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            <span className="sr-only">Toggle navigation</span>
-            <span className="icon-bar"></span>
-            <span className="icon-bar"></span>
-            <span className="icon-bar"></span>
+            {" "}
+            <span className="sr-only">Toggle navigation</span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
           </button>
-          <Link className="navbar-brand page-scroll" to="/" onClick={() => handleNavClick('header')}>
-            GOT SOLAR
-          </Link>
+          <a className="navbar-brand page-scroll" href="#page-top">
+            Max The Creator
+          </a>{" "}
         </div>
 
-        <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div
+          className="collapse navbar-collapse"
+          id="bs-example-navbar-collapse-1"
+        >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#about" onClick={() => handleNavClick('about')}>
+              <a href="#about" className="page-scroll">
                 About
               </a>
             </li>
             <li>
-              <a href="#timeline" onClick={() => handleNavClick('timeline')}>
+              <a href="#timeline" className="page-scroll">
                 Timeline
               </a>
             </li>
             <li>
-              <a href="#gallery" onClick={() => handleNavClick('portfolio')}>
+              <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
             </li>
             <li>
-              <a href="#contact" onClick={() => handleNavClick('contact')}>
+              <a href="#contact" className="page-scroll">
                 Contact
               </a>
-            </li>
-            <li>
-              <Link to="/faq">
-                FAQ
-              </Link>
-            </li>
-            <li>
-              <Link to="/blog">
-                BLOG
-              </Link>
             </li>
           </ul>
         </div>

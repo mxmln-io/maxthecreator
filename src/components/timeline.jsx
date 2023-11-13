@@ -5,9 +5,9 @@ export const Timeline = (props) => {
     <div id="timeline" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>About Us</h2>
+          <h2>My Timeline</h2>
           <p>
-            Why Choose Solar?
+            A few highlights from my journey.
           </p>
         </div>
         <div className="row">

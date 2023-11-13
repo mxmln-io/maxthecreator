@@ -211,7 +211,7 @@ a:focus,
   width: 100%;
   max-width: 100%;
   padding: 0;
-  background: url(../img/solarhouse.jpg) center center no-repeat;
+  background: url(../img/ink-64644.mp4) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -299,7 +299,7 @@ header .intro-text {
 /* Timeline Section */
 #timeline {
   padding: 100px 0;
-  background: url(../img/solarca.jpg) center center no-repeat;
+  background: url(../img/mask.jpeg) center center no-repeat;
   color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -394,7 +394,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: url(../img/solareurope.jpg) center center no-repeat;
+  background: url(../img/arm.jpg) center center no-repeat;
   color: rgba(255, 255, 255, 0.75);
   -webkit-background-size: cover;
   -moz-background-size: cover;

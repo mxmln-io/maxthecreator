@@ -17,7 +17,7 @@ export const Header = (props) => {
                   href="https://web.getsquire.com/book/mysterieux-san-jose/barber/maximillian-kwun-tran/services"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Learn More
+                  Appointments
                 </a>{" "}
               </div>
             </div>
