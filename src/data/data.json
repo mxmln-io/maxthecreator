@@ -4,89 +4,69 @@
     "paragraph": "Engineer, Barber, Creator"
   },
   "About": {
-    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. I am a self-taught software developer and professional barber. Expressing creativity and individuality through my work is my passion. In 2021, I founded my own barbershop in San Jose, CA. While I was building the website for the shops and running scripts to analyze our data, I discovered my affinity for software development. ",
-    "paragraph2": "Although the shop was thriving, I found myself on many nights pondering and exploring computer science. After almost two years, I decided that I wanted to pursue a development career, and some day start my own tech company. In the fall of 2022, I realized my shops full potential through a successful sale, cut down to part time as a barber, and began my journey as a full time software engineer.",
-    "paragraph3": "Life after graduation has been one wonderful and exciting roller coaster. I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
+    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. Expressing creativity and individuality through my work is my passion. In 2020, I founded my own barbershop in San Jose, CA. While I was building the website for the shop, I discovered my affinity for software development.",
+    "paragraph2": "Although the shop was thriving, I found myself on many nights pondering and exploring the wonderful world of computer science. After almost two years, I decided that I wanted to pursue a development career full time, with hopes of someday founding my own startup. In the fall of 2022, I realized my shops full potential through a successful sale, and began a new chapter.",
+    "paragraph3": "Life after graduation has been nothing short of an exciting roller coaster. I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
     "paragraph4": "Love always, Max"
   },
 
+  "Appointments": {
+    "paragraph": "I still cut hair part time. Book an appointment below!"
+  },
+
   "Gallery": [
-    {
-      "title": "Lights. Camera. Action.",
-      "smallImage": "img/portfolio/action.jpeg"
+    { 
+      "title": "Shapes",
+      "smallImage": "img/portfolio/shapes.png",
+      "link": "https://www.figma.com/file/8mHJ6ZClYogLno4cumImpv/Shapes-Figma?type=design&node-id=0%3A1&mode=design&t=HCW7dCgKiS17nZst-1"
     },
     {
-      "title": "Freestyle",
-      "smallImage": "img/portfolio/design.jpeg"
+      "title": "Selenium Authocheckout Bot",
+      "smallImage": "img/portfolio/bot.jpg",
+      "link": "https://github.com/mxmln-io/Selenium-Autocheckout-Bot"
     },
     {
-      "title": "Waves",
-      "smallImage": "img/portfolio/wave.jpeg"
+      "title": "React Native Chat App",
+      "smallImage": "img/portfolio/darkfire.jpg",
+      "link": "https://github.com/mxmln-io/Messaging-App-React-Native"
     },
     {
-      "title": "Curls",
-      "smallImage": "img/portfolio/curl.jpeg"
+      "title": "Java Inventory Management System ",
+      "smallImage": "img/portfolio/inventory.jpg",
+      "link": "https://github.com/mxmln-io/Inventory-Management-System"
     },
     {
-      "title": "Hair Architecture",
-      "smallImage": "img/portfolio/book.jpeg"
+      "title": "Video Game Sales Analysis",
+      "smallImage": "img/portfolio/game.jpg",
+      "link": "https://github.com/mxmln-io/Video-Game-Sales-Analysis"
     },
     {
-      "title": "Classic",
-      "smallImage": "img/portfolio/part.jpeg"
+      "title": "LLM Clone",
+      "smallImage": "img/portfolio/ai.jpg",
+      "link": "https://github.com/mxmln-io/LLM-Clone"
     },
     {
-      "title": "Man Bun",
-      "smallImage": "img/portfolio/bun.jpeg"
+      "title": "Delivery Routing Algorithm",
+      "smallImage": "img/portfolio/truck.jpg",
+      "link": "https://github.com/mxmln-io/Truck-Routing-Algorithm"
     },
     {
-      "title": "Braid and Fade",
-      "smallImage": "img/portfolio/braid.jpeg"
+      "title": "Meeting and Report Manager",
+      "smallImage": "img/portfolio/meeting.jpg",
+      "link": "https://github.com/mxmln-io/Meeting-and-Report-Manager"
     },
     {
-      "title": "Beard Work",
-      "smallImage": "img/portfolio/beard.jpeg"
-    }
-  ],
-  "Timeline": [
-    {
-      "icon": "fa fa-graduation-cap",
-      "name": "2017",
-      "text": "Graduated with a B.B.A. in Finance and Investment Analytics, Magna Cum Laude."
-    },
-    {
-      "icon": "fa fa-scissors",
-      "name": "2018",
-      "text": "Began my career as a barber. Made many lifelong friends and connections along the way."
-    },
-    {
-      "icon": "fa fa-star",
-      "name": "2019",
-      "text": "Accepted a second job as a CA Peace Officer for the Santa Clara County Probation Department."
-    },
-    {
-      "icon": "fa fa-desktop",
-      "name": "2020",
-      "text": "Learned a few software development tools to improve my business. Curiousity and side projects eventually grew into passion."
-    },
-    {
-      "icon": "fa fa-bolt",
-      "name": "2021",
-      "text": "Took a chance, resigned from officer duties, and opened up my own barbershop! It was the learning experience of a lifetime. Made even more friends and memories."
-    },
-    {
-      "icon": "fa fa-code",
-      "name": "2022 and Beyond",
-      "text": "Sold my shop to pursue tech full time. I still cut part time during the week so feel free to book an appointment!"
+      "title": "Web Crawler",
+      "smallImage": "img/portfolio/crawler.jpg",
+      "link": "https://github.com/mxmln-io/Python-Web-Crawler"
     }
   ],
   
   "Contact": {
-    "address": "San Jose, CA",
     "phone": "(209)770-2007",
     "email": "tranmaximillian@gmail.com",
     "linkedin": "https://www.linkedin.com/in/maximilliankt/",
-    "github": "https://www.github.com/max-the-creator",
+    "github": "https://www.github.com/mxmln-io",
     "instagram": "https://www.instagram.com/theundefaded/"
   }
 

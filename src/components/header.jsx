@@ -1,8 +1,10 @@
 import React from "react";
+import CursorAnimation from "./CursorAnimation";
 
 export const Header = (props) => {
   return (
     <header id="header">
+      <CursorAnimation/>
       <div className="intro">
         <div className="overlay">
           <div className="container">
@@ -13,12 +15,6 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="https://getsqr.co/maximillian-kwun-tran-1"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Appointments
-                </a>{" "}
               </div>
             </div>
           </div>

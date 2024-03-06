@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Max The Creator
+            mxmln.io
           </a>{" "}
         </div>
 
@@ -33,15 +33,16 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#timeline" className="page-scroll">
-                Timeline
+              <a href="#appointments" className="page-scroll">
+                Appointments
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Portfolio
               </a>
             </li>
+            
             <li>
               <a href="#contact" className="page-scroll">
                 Contact

@@ -168,7 +168,7 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-image: linear-gradient(to right, #fb715c 0%, #6372ff 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -211,7 +211,7 @@ a:focus,
   width: 100%;
   max-width: 100%;
   padding: 0;
-  background: url(../img/ink-64644.mp4) center center no-repeat;
+  background: url(../img/pallettown.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -296,50 +296,61 @@ header .intro-text {
   margin: 30px 0;
 }
 
-/* Timeline Section */
-#timeline {
-  padding: 100px 0;
-  background: url(../img/mask.jpeg) center center no-repeat;
-  color: #fff;
+/* Header Section */
+#appointments .intro {
+  display: table;
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  background: url(../img/yellow.jpg) center bottom no-repeat;
+  background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
-#timeline h2 {
-  color: #fff;
+#appointments .intro .overlay {
+  background: rgba(1, 1, 65, 0.134);
 }
-#timeline .section-title h2::after {
-  position: absolute;
-  content: "";
-  background: rgba(255, 255, 255, 0.3);
-  height: 4px;
-  width: 60px;
-  bottom: 0;
-  margin-left: -30px;
-  left: 50%;
+
+#appointments .intro p {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 300;
+  font-family: "FontAwesome";
+  line-height: 30px;
+  margin: 0 auto;
+  margin-bottom: 100px;
 }
-#timeline i.fa {
-  font-size: 42px;
-  width: 120px;
-  height: 120px;
-  padding: 40px 0;
-  background: linear-gradient(to right, #45464c 0%, #000000 100%);
-  border-radius: 50%;
-  color: #fff;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+#appointments .intro-text {
+  padding-top: 400px;
+  text-align: center;
 }
-#timeline h3 {
-  font-weight: 500;
-  padding: 5px 0;
-  color: #fff;
+
+.game-button {
+  border: 3px solid #000000; /* Dark border */
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  color: #000000; /* Text color */
+  padding: 20px; /* Padding around the text */
+  font-family: 'Press Start 2P', cursive; /* Pixelated font, reminiscent of classic video games */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Changes the cursor to a pointer to indicate it's clickable */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: adds a shadow for more depth */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
 }
-#timeline p {
-  color: #fff;
+
+.game-button:hover {
+  background-color: rgba(255, 255, 255, 0.9); /* Lightens the background on hover */
+  transform: scale(1.05); /* Slightly increases the button size on hover */
 }
-#timeline .service-desc {
-  margin-bottom: 40px;
+
+.game-button:active {
+  transform: scale(0.95); /* Slightly decreases the button size when clicked */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Adjusts the shadow to give a pressed effect */
 }
+
+
 
 /* Portfolio Section */
 #portfolio {
@@ -394,7 +405,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: url(../img/arm.jpg) center center no-repeat;
+  background: url(../img/sunset.jpg) center bottom no-repeat;
   color: rgba(255, 255, 255, 0.75);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -404,11 +415,13 @@ header .intro-text {
 #contact .section-title {
   margin-bottom: 40px;
 }
-#contact .section-title p {
+
+#contact p {
   font-size: 16px;
+  color: #000000;
 }
 #contact h2 {
-  color: #fff;
+  color: #000000;
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
@@ -425,7 +438,7 @@ header .intro-text {
   justify-content: center;
 }
 #contact h3 {
-  color: #fff;
+  color: #000000;
   margin-top: 80px;
   margin-bottom: 25px;
   padding-bottom: 20px;
@@ -437,7 +450,7 @@ header .intro-text {
   margin: 20px 0;
 }
 #contact .contact-item span {
-  color: #fff;
+  color: #000000;
   margin-bottom: 10px;
   display: block;
 }
@@ -459,8 +472,8 @@ header .intro-text {
   width: 48px;
   height: 48px;
   padding: 12px 0;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #000000;
+  color: #000000;
   border-radius: 50%;
   transition: all 0.3s;
 }

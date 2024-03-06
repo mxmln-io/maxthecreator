@@ -1,7 +1,7 @@
-# maxthecreator
+# mxmln.io
 
 
-This is a website for my small barber business built using React. The website is designed to provide information about both my business and personal ventures. The website also allows users to schedule appointments with the barber shop.
+This is a landing page built using React. The website is designed to provide information about both my business and personal ventures.
 
 ## Installation
 

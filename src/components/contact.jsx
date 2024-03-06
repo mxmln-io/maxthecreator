@@ -8,16 +8,8 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container text-center">
-          <div className="contact-info">
-            <div className="contact-item">
-              <h2>Contact Info</h2>
-              <p>
-                <span>
-                  <i className="fa fa-map-marker"></i> Address
-                </span>
-                {props.data ? props.data.address : "loading"}
-              </p>
-            </div>
+          <div className="game-button">
+          <h2>Contact Info</h2>
             <div className="contact-item">
               <p>
                 <span>
@@ -63,7 +55,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Max The Creator
+            &copy; 2024 MXMLN
           </p>
         </div>
       </div>
