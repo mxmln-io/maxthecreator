@@ -9,7 +9,7 @@ export const Portfolio = (props) => {
           <h2>Projects</h2>
         </div>
         <div className="row">
-          <div className="portfolio-items">
+          <div className="portfolio-item">
             {props.data
               ? props.data.map((d, i) => (
                   <a

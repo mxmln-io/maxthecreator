@@ -75,6 +75,7 @@ hr {
 #menu {
   padding: 15px;
   transition: all 0.8s;
+  overflow: hidden;
 }
 #menu.navbar-default {
   background-color: #fff;
@@ -328,26 +329,26 @@ header .intro-text {
 }
 
 .game-button {
-  border: 3px solid #000000; /* Dark border */
-  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
-  color: #000000; /* Text color */
-  padding: 20px; /* Padding around the text */
-  font-family: 'Press Start 2P', cursive; /* Pixelated font, reminiscent of classic video games */
-  font-size: 16px; /* Font size */
-  cursor: pointer; /* Changes the cursor to a pointer to indicate it's clickable */
-  border-radius: 10px; /* Rounded corners */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: adds a shadow for more depth */
-  transition: all 0.3s ease; /* Smooth transition for hover effects */
+  border: 3px solid #000000; 
+  background-color: rgba(255, 255, 255, 0.8); 
+  color: #000000; 
+  padding: 20px; 
+  font-family: 'Press Start 2P', cursive; 
+  font-size: 16px;
+  cursor: pointer; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  transition: all 0.3s ease; 
 }
 
 .game-button:hover {
-  background-color: rgba(255, 255, 255, 0.9); /* Lightens the background on hover */
-  transform: scale(1.05); /* Slightly increases the button size on hover */
+  background-color: rgba(255, 255, 255, 0.9); 
+  transform: scale(1.05); 
 }
 
 .game-button:active {
-  transform: scale(0.95); /* Slightly decreases the button size when clicked */
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Adjusts the shadow to give a pressed effect */
+  transform: scale(0.95); 
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
 }
 
 
@@ -355,6 +356,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
+  overflow: hidden;
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
@@ -499,8 +501,11 @@ header .intro-text {
 }
 
 @media (max-width: 768px) {
-  #about img {
-    margin: 50px 0;
+  #contact p,
+  #contact .contact-email { 
+    font-size: 14px; 
   }
 }
+
+
 
