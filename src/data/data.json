@@ -1,14 +1,14 @@
 {
   "Header": {
     "title": "MKT",
-    "paragraph": "Engineer, Barber, Creator"
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. Expressing creativity and individuality through my work is my passion. In 2020, I founded my own barbershop in San Jose, CA. While I was building the website for the shop, I discovered my affinity for software development.",
+    "paragraph": "Hi, my name is Maximillian Kwun-Tran. Welcome to my domain. In 2020, I founded my own barbershop in San Jose, CA. While I was building the website for the shop, I discovered my affinity for software development.",
     "paragraph2": "Although the shop was thriving, I found myself on many nights pondering and exploring the wonderful world of computer science. After almost two years, I decided that I wanted to pursue a development career full time, with hopes of someday founding my own startup. In the fall of 2022, I realized my shops full potential through a successful sale, and began a new chapter.",
-    "paragraph3": "Life after graduation has been nothing short of an exciting roller coaster. I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
+    "paragraph3": "I have had the opportunity to meet so many amazing people along the way. I want to give a special thanks to my clients and all those who have supported me throughout my career. If you're reading this, please don't ever hesitate to reach out and connect.",
     "paragraph4": "Love always, Max",
-    "paragraph5": "P.S. Got something big in development right now. See 'Shapes' in the Project section for a preview..."
+    "paragraph5": ""
   },
 
   "Appointments": {
@@ -64,7 +64,7 @@
   ],
   
   "Contact": {
-    "phone": "(209)770-2007",
+    "phone": "Whats yo weChat",
     "email": "tranmaximillian@gmail.com",
     "linkedin": "https://www.linkedin.com/in/maximilliankt/",
     "github": "https://www.github.com/mxmln-io",

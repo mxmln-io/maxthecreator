@@ -8,11 +8,7 @@ export const Appointments = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <a href="https://getsquire.com/booking/book/the-undefaded-san-jose/barber/maximillian-kwun-tran-1/services">
-                    <div className="game-button">
-                        I still cut part-time. Click here for appointments!
-                    </div>
-                </a>
+                    
               </div>
             </div>
           </div>
